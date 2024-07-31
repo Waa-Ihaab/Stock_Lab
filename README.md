@@ -1,0 +1,1 @@
+I developed a stock management application for a store in Java, in collaboration with my friends, over a period of two months. This application allows users to add, delete, and modify products. It features a reactive user interface and integrates with a database.
